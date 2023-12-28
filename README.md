@@ -31,7 +31,7 @@ if __name__ == "__main__":
 ```
 ### OUTPUT:
 
-![image](https://github.com/VerginJenifer/Word-count/assets/136251012/09941e2b-24f0-4a31-a8de-c46846247470)
+![image](https://github.com/VerginJenifer/Word-count/assets/136251012/a6a22d22-f669-4772-a928-34771af4a990)
 
 
 ## RESULT:

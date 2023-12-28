@@ -19,6 +19,9 @@ print the count.
 End of program
 ## PROGRAM:
 ```
+#python program for getting the word count from a text.
+#Developed by: D Vergin Jenifer
+#Register no: 23004210
 def word_count(text):
     words = text.split()
     count = len(words)
@@ -30,7 +33,7 @@ if __name__ == "__main__":
     print("Word count:",result)
 ```
 ### OUTPUT:
-![image](https://github.com/VerginJenifer/Word-count/assets/136251012/8db91efc-88e5-4301-a383-96aa22d029a9)
+![image](https://github.com/VerginJenifer/Word-count/assets/136251012/8c6ccf2b-4625-4f94-8c06-c5debf52efbe)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.

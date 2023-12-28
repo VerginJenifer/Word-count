@@ -33,6 +33,8 @@ if __name__ == "__main__":
     print("Word count:",result)
 ```
 ### OUTPUT:
+
 ![Alt text](image.png)
+
 ## RESULT:
 Thus the program is written to find the word count from a text.

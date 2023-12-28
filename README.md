@@ -30,7 +30,8 @@ if __name__ == "__main__":
     print("Word count:",result)
 ```
 ### OUTPUT:
-![Screenshot 2023-12-29 044105](https://github.com/VerginJenifer/Word-count/assets/136251012/5f1ba4f6-9a6b-4c42-82a1-d720e04dfc95)
+![Screenshot 2023-12-29 041316](https://github.com/VerginJenifer/Word-count/assets/136251012/39a200f5-4294-4393-bcb8-1418483ad887)
+
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
